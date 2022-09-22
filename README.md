@@ -8,6 +8,12 @@ The first step is to create the superuser to login into the administration panel
 python manage.py createsuperuser
 ```
 
+Alternatively, the following admin user could be used:
+```
+Username: kamil
+Password: kamil
+```
+
 To run the project
 
 ```sh
